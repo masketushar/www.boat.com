@@ -1,0 +1,99 @@
+*{
+
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body{
+
+  width: 100%;
+}
+#uni-padding{
+  padding: 0 8%;
+}
+.main-count{
+  background-color: white;
+  background-size: cover;
+  width: 100%;
+
+}
+
+.home-bg{
+  background-image: url(my-p-img/desktop-wallpaper-50-earphones-headphone-boat.jpg);
+}
+
+
+.btn{ margin-right: 5px;}
+
+.img-logo{
+  font-size: 30px;
+}
+.text-1{
+
+margin-top:100px ;
+  color: white;
+}
+.Corporat{
+
+  display: flex;
+  
+}
+
+/* categiri page start */
+
+.nop{
+
+
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('my-p-img/desktop-wallpaper-50-earphones-headphone-boat.jpg'); /* Path to your background image */
+  background-size: cover; /* Cover the entire background */
+  background-repeat: no-repeat; /* Prevent repeating */
+  background-position: center center; /* Center the image */
+}
+
+/* categiri page end*/
+
+ /* personalisation  start */
+.personalisation{
+  display: flex;
+  flex-wrap: wrap;
+}
+.card{
+
+  margin-right: 10px;
+  margin-top: 10px;
+}
+/* personalisation end */
+
+/* gift-with-bote-start */
+
+
+
+.gift-bg-image{
+
+  background-image: url(my-p-img/gift.jpg);
+
+}
+
+.text-count{
+
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.gift-doun{
+
+  width: 100%;
+  height: 10%;
+  background-color: white;
+
+}
+
+/* gift-with-bote-end */
+
+/* About section start hear */
+
+
+/* About setion end hear */
